@@ -1,0 +1,12 @@
+# gitignore
+
+.ipynb_checkpoints/
+__pycache__/
+change_notebook_numbers.py
+
+ML 8.1 - Neural Networks - Deep learning - MNIST.ipynb
+ML 8.2 - Neural Networks - Deep Learning - NLP.ipynb
+ML 8.3 - Neural Networks - Recurrent Neural Network.ipynb
+ML 8.4 - Neural Networks - Convolutional Neural Network .ipynb
+
+data/sentiment_set.pickle
