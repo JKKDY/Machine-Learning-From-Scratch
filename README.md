@@ -8,5 +8,6 @@ List of ML models that have been implemented:
 + K nearest neighbors
 + Support vector machine
 + Decision Tree
++ Random Forest
 + K Means
 + Mean shift
