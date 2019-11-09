@@ -11,3 +11,12 @@ List of ML models that have been implemented:
 + Random Forest
 + K Means
 + Mean shift
+
+
+Python Dependencies:
++ jupyter
++ pandas
++ numpy
++ matplotlib
++ sklearn
++ quandl (only for linear regression)
