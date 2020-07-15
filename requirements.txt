@@ -1,0 +1,9 @@
+python 3
+python -m pip install pandas
+python -m pip install Jupyter
+python -m pip install matplotlib
+python -m pip install pandas-datareader
+python -m pip install -U scikit-learn
+python -m pip install quandl
+python -m pip install ipykernel 
+python -m pip install xlrd
